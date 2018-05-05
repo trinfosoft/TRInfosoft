@@ -1,0 +1,2 @@
+# TRInfosoft
+Basic Application
